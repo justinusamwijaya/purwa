@@ -1,1 +1,3 @@
-lahdflafdlh
+git init
+git add -A
+git commit -m "My First Commit"
